@@ -1,4 +1,4 @@
-# Python Machine Learning Devkit
+# Python Machine Learning Devkit [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5694da45e0a54b09ba71031570b00e0a)](https://www.codacy.com/app/v1shwa/ml-devkit?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=v1shwa/ml-devkit&amp;utm_campaign=Badge_Grade)
 Docker image for data analysis and machine learning with python.
 
 ## Usage

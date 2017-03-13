@@ -9,7 +9,7 @@ ENV TINI_VERSION v0.6.0
 
 # Update & install required base packages
 RUN apt-get -y update && \
-    apt-get install -y build-essential \
+    apt-get install --no-install-recommends -y build-essential \
     software-properties-common \
     vim \
     libpng-dev \
