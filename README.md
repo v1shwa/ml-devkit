@@ -15,7 +15,7 @@ Docker image for data analysis and machine learning with python.
         
         docker run -p 8888:8888 -v $(pwd):/appdata -e NB_PASSWORD="mynewpass"  -d v1shwa/ml-devkit
     
-    You can now access the jupyter notebook at http://localhost:8888/
+    You can now access the jupyter notebook at [localhost:8888](http://localhost:8888/)
 
 ## What's in it?
  - Python 3.6
