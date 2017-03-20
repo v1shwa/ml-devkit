@@ -33,6 +33,7 @@ RUN pip install -U pip setuptools && \
     jupyter \
     pbr \
     funcsigs && \
+    keras && \
     pip install ${TF_PYTHON_URL}
 
 

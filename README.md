@@ -30,6 +30,7 @@ Docker image for data analysis and machine learning with python.
  - theano
  - jupyter
  - tensorflow
+ - keras
 
 ## License
 [The MIT License](https://github.com/v1shwa/ml-devkit/blob/master/LICENSE)
