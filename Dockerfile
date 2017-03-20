@@ -32,7 +32,7 @@ RUN pip install -U pip setuptools && \
     theano \
     jupyter \
     pbr \
-    funcsigs && \
+    funcsigs \
     keras && \
     pip install ${TF_PYTHON_URL}
 
