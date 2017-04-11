@@ -4,3 +4,8 @@ services:
 language: python
 python:
   - "3.6"
+install:
+  - docker build -t mldk .
+  - docker run -d -p 8888:8888 --name mldkc mldk
+script:
+  - docker ps | grep -q mldk
