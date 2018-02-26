@@ -31,6 +31,7 @@ RUN pip install -U pip setuptools && \
     gensim \
     theano \
     jupyter \
+    jupyterlab \
     pbr \
     funcsigs \
     keras \
